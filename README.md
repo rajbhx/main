@@ -1,6 +1,9 @@
 # indexof
 Jarvisstaraq.blogspot.com index of
 
+My IP Address - How to check IP address in Termux | आई. पी. एड्रेस कैसे पता करें | @rajbhx 
+https://jarvisstaraq.blogspot.com/2019/08/My-ip-address-how-to-check-ip-address.html
+
 My Termux | How to install Lazymux in Termux @rajbhx
 https://jarvisstaraq.blogspot.com/2021/02/my-termux-how-to-install-lazymux-in.html
 
