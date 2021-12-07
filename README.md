@@ -40,3 +40,5 @@ https://jarvisstaraq.blogspot.com/2021/02/how-to-delete-facebook-account-by.html
 My IP Address - How to check IP address in Termux | आई. पी. एड्रेस कैसे पता करें | @rajbhx 
 https://jarvisstaraq.blogspot.com/2019/08/My-ip-address-how-to-check-ip-address.html
 
+jarvisstaraq.blogspot.com
+
