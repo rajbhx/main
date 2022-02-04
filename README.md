@@ -42,3 +42,6 @@ https://jarvisstaraq.blogspot.com/2019/08/My-ip-address-how-to-check-ip-address.
 
 jarvisstaraq.blogspot.com
 
+<a href=\"https://colab.research.google.com/github/rajbhx/indexofrajbhx/blob/main/Untitled0.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>
+
+
