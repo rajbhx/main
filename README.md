@@ -42,5 +42,5 @@ https://jarvisstaraq.blogspot.com/2019/08/My-ip-address-how-to-check-ip-address.
 
 jarvisstaraq.blogspot.com
 
-<a href="https://colab.research.google.com/github/rajbhx/indexofrajbhx/blob/main/%40rajbhx%20nomachine.ipynb"><img data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" src="https://camo.githubusercontent.com/84f0493939e0c4de4e6dbe113251b4bfb5353e57134ffd9fcab6b8714514d4d1/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667"></a>
+<a href="https://colab.research.google.com/github/rajbhx/main/blob/main/biplobsd%20by%20nomachine.ipynb"><img data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" src="https://camo.githubusercontent.com/84f0493939e0c4de4e6dbe113251b4bfb5353e57134ffd9fcab6b8714514d4d1/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667"></a>
 
