@@ -11,6 +11,9 @@
 <a href="https://instagram.com/fakerajbhx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fakerajbhx" height="30" width="40" /></a>
 </p>
 
+#Pinterest
+https://pin.it/5V2OOeH
+
 
 
 
