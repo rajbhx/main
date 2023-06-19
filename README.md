@@ -1,3 +1,10 @@
+# Social media 
+Twitter:
+Pinterest:https://pin.it/7e0hr0w
+Website:
+YouTube:
+
+
 # indexof
 Jarvisstaraq.blogspot.com index of
 
