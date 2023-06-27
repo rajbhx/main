@@ -60,7 +60,7 @@ My IP Address - How to check IP address in Termux | आई. पी. एड्र
 [Link](https://jarvisstaraq.blogspot.com/2021/02/how-to-delete-facebook-account-by.html)
 
 • My IP Address - How to check IP address in Termux | आई. पी. एड्रेस कैसे पता करें | @rajbhx 
-[Link](https://jarvisstaraq.blogspot.com/2019/08/My-ip-address-how-to-check-ip-address.html)
+[Homepage](https://jarvisstaraq.blogspot.com)
 
 jarvisstaraq.blogspot.com
 
