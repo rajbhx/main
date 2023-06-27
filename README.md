@@ -20,7 +20,7 @@ https://pin.it/5V2OOeH
 
 
 
-# indexof
+# Index of rajbhx
 Jarvisstaraq.blogspot.com index of
 
 My IP Address - How to check IP address in Termux | आई. पी. एड्रेस कैसे पता करें | @rajbhx 
