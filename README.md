@@ -1,21 +1,19 @@
-<h1 align="center">Hi, I'm RAJ aka rajbhx</h1>
+# Index of Jarvisstaraq.blogspot.com
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/rajbhx" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajbhx" height="30" width="40" /></a>
-  <a href="https://fb.com/rajbhx" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rajbhx" height="30" width="40" /></a>
-  <a href="https://instagram.com/fakerajbhx" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fakerajbhx" height="30" width="40" /></a>
-</p>
+Hello, I'm Raj, also known as rajbhx. You can connect with me through various platforms:
 
-**Pinterest**: [https://pin.it/5V2OOeH](https://pin.it/5V2OOeH)
+- Twitter: [@rajbhx](https://twitter.com/rajbhx)
+- Facebook: [rajbhx](https://fb.com/rajbhx)
+- Instagram: [fakerajbhx](https://instagram.com/fakerajbhx)
 
-## Index of rajbhx
-Explore a collection of captivating content on my blog, [Jarvisstaraq.blogspot.com](https://jarvisstaraq.blogspot.com). Discover useful guides, tutorials, and insightful articles on various topics.
+You can find my Pinterest profile [here](https://pin.it/5V2OOeH).
+
+Now, let's take a look at the index of my blog, Jarvisstaraq.blogspot.com:
 
 - [My IP Address - How to check IP address in Termux | आई. पी. एड्रेस कैसे पता करें | @rajbhx](https://jarvisstaraq.blogspot.com/2019/08/My-ip-address-how-to-check-ip-address.html)
 - [My Termux | How to install Lazymux in Termux @rajbhx](https://jarvisstaraq.blogspot.com/2021/02/my-termux-how-to-install-lazymux-in.html)
 - [How to Install Oh My Zsh](https://jarvisstaraq.blogspot.com/2021/02/install-oh-my-zsh.html)
-- [How to download copyright-free gameplay CODM/PUBG/BGMI/FreeFire Call of duty mobile 60fps](https://jarvisstaraq.blogspot.com/2021/10/how-to-download-copyright-free-game.html)
+- [How to download copyright-free gameplay CODM/PUBG/BGMI/FreeFire Call of Duty Mobile 60fps](https://jarvisstaraq.blogspot.com/2021/10/how-to-download-copyright-free-game.html)
 - [How to install FacebookToolkit in Termux + Linux + Windows 10/11](https://jarvisstaraq.blogspot.com/2021/10/how-to-install-facebooktoolkit-in.html)
 - [Download any video with Termux using youtube-dl | #rajbhx](https://jarvisstaraq.blogspot.com/2019/08/Download-any-video-with-termux.html)
 - [How to install Raspbian 9 (Stretch) in Termux #rajbhx](https://jarvisstaraq.blogspot.com/2021/09/how-to-install-raspbian-9-stretch-in.html)
@@ -26,6 +24,13 @@ Explore a collection of captivating content on my blog, [Jarvisstaraq.blogspot.c
 - [How to delete Facebook Account by IlayTamvan Report tool | Termux](https://jarvisstaraq.blogspot.com/2021/02/how-to-delete-facebook-account-by.html)
 - [My IP Address - How to check IP address in Termux | आई. पी. एड्रेस कैसे पता करें | @rajbhx](https://jarvisstaraq.blogspot.com) (Homepage)
 
-Feel free to explore these links and discover a variety of interesting content on my blog, [Jarvisstaraq.blogspot.com](https://jarvisstaraq.blogspot.com). Each article provides valuable insights and step-by-step guides on various topics.
+Feel free to explore these links and discover a variety of interesting content on my blog, Jarvisstaraq.blogspot.com.
 
-You can also check out my [GitHub repository](https://colab.research.google.com/github/rajbhx/main/blob/main/biplobsd%20by%20nomachine.ipynb) for additional resources and projects. Join me in this creative journey of learning and exploration. Let's unlock new possibilities and inspire one another. Happy reading and creating!
+You can also check out my
+
+GitHub repository by clicking the badge below:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rajbhx/main/blob/main/biplobsd%20by%20nomachine.ipynb)
+
+This will take you to my GitHub repository where you can access additional resources and projects. Feel free to explore and engage with the content. If you have any questions or need assistance, don't hesitate to reach out. Enjoy your journey through my blog and GitHub repository!
+
